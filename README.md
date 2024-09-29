@@ -1,6 +1,6 @@
 # kep51_jwst
 
-Data and result files for: [**A Fourth Planet in the Kepler-51 System Revealed by Transit Timing Variations** (Masuda, Libby-Roberts et al., 2024)]()
+[**A Fourth Planet in the Kepler-51 System Revealed by Transit Timing Variations** (Masuda, Libby-Roberts et al., 2024)]()
 
 #### data/
 Transit times in Table 1.
