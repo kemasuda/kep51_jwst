@@ -1,6 +1,6 @@
 # kep51_jwst
 
-[**A Fourth Planet in the Kepler-51 System Revealed by Transit Timing Variations** (Masuda, Libby-Roberts et al., 2024)]()
+[**A Fourth Planet in the Kepler-51 System Revealed by Transit Timing Variations** (Masuda, Libby-Roberts et al., 2024)](https://arxiv.org/abs/2410.01625)
 
 #### data/
 Transit times in Table 1.
